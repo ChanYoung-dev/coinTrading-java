@@ -12,10 +12,4 @@ gen
 /logs/
 /gradle/
 
-/build.gradle
-/settings.gradle
 
-## src만
-/gradlew
-/gradlew.bat
-/HELP.md
