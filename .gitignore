@@ -1,0 +1,21 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/src/main/resources/application.yml
+.gradle
+/build/
+/logs/
+/gradle/
+
+/build.gradle
+/settings.gradle
+
+## src만
+/gradlew
+/gradlew.bat
+/HELP.md
